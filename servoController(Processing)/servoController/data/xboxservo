@@ -1,0 +1,4 @@
+To study project 
+LED	Turn on when OnClick	1	BUTTON	Przycisk 0	0	0.0	0.0
+Servo	To change Servopos	3	SLIDER	Obrót X	0	1.0	0.0
+analogLED	To change brihgt 	3	SLIDER	O 	0	1.0	0.0
